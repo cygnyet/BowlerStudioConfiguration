@@ -17,10 +17,6 @@
     "https://github.com/cygnyet/javaCad_cygnyet.git:javaCad.groovy": [
       "https://github.com/cygnyet/javaCad_cygnyet.git",
       "javaCad.groovy"
-    ],
-    "https://github.com/cygnyet/helloWorld_cygnyet.git:helloWorld.groovy": [
-      "https://github.com/cygnyet/helloWorld_cygnyet.git",
-      "helloWorld.groovy"
     ]
   },
   "BowlerStudioConfigs": {
