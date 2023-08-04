@@ -6,6 +6,9 @@
     ]
   },
   "studio-open-web": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {
     "https://github.com/cygnyet/helloWorld_cygnyet.git:helloWorld.groovy": [
       "https://github.com/cygnyet/helloWorld_cygnyet.git",
